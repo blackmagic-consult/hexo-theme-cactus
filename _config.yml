@@ -18,6 +18,7 @@ nav:
   about: /about/
   articles: /archives/
   projects: projects_url
+  'Other Sites': /if-you-like/
 
 
 # Links to your social media accounts.
@@ -25,11 +26,12 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/probberechts/cactus-dark
-  twitter: /
-  facebook: /
-  linkedin: /
-  mail: mailto:name@email.com
+  github: https://github.com/blackmagic-consult
+  linkedin: https://www.linkedin.com/in/a-spezowka/
+  stack-overflow: https://stackoverflow.com/cv/a-spezowka
+  mastodon: https://cybre.space/@International
+  keybase: https://keybase.io/t0nic
+  mail: mailto:alex@blackmagic.wtf
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
@@ -71,7 +73,7 @@ post:
 #   - url: where the logo can be found
 #   - gravatar: whether to use your Gravatar as the logo
 logo:
-  enabled: true
+  enabled: false
   width: 50
   height: 50
   url: /images/logo.png
@@ -104,7 +106,7 @@ favicon:
 # Set the color scheme.
 # Available color schemes are 'dark', 'light', 'classic' and 'white'.
 # Alternatively, add your own custom color scheme to source/css/_colors.
-colorscheme: dark
+colorscheme: light
 
 # Maximal width of the page in rem units.
 page_width: 48
