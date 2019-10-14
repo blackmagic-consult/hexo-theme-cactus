@@ -17,7 +17,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: 'https://github.com/blackmagic-consult'
+  projects: https://github.com/blackmagic-consult
   'Other Sites': /if-you-like/
 
 
